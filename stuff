@@ -1,0 +1,2 @@
+<Grep command For getting IP from list.>
+Command: grep -oE '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'
